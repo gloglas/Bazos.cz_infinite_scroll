@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name         Bazos Infinite Scroll (inzeraty)
+// @namespace    local
+// @version      1.0
+// @match        *://*.bazos.cz/*
+// @run-at       document-idle
+// @grant        none
+// ==/UserScript==
+
 <script>
 (() => {
   'use strict';
