@@ -21,7 +21,6 @@
 // @supportURL   https://github.com/gloglas/Bazos.cz_infinite_scroll/issues
 // ==/UserScript==
 
-<script>
 (() => {
   'use strict';
   const ITEM_SELECTOR = 'div.inzeraty.inzeratyflex';
@@ -129,4 +128,3 @@
   }
   observer.observe(sentinel);
 })();
-</script>
