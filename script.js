@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bazoš Infinite Scroll (inzeráty)
+// @name         Bazoš Infinite Scroll (inzeráty a bany) 
 // @namespace    https://github.com/gloglas/Bazos.cz_infinite_scroll
 // @version      1.0.0
 // @description  Infinite scroll for Bazoš listing page
@@ -15,8 +15,8 @@
 // @grant        none
 //
 // Update/install links (Tampermonkey uses these to update)
-// @downloadURL  https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/main/script.js
-// @updateURL    https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/refs/heads/bans/script.js
+// @updateURL    https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/refs/heads/bans/script.js
 // @homepageURL  https://github.com/gloglas/Bazos.cz_infinite_scroll
 // @supportURL   https://github.com/gloglas/Bazos.cz_infinite_scroll/issues
 // ==/UserScript==
