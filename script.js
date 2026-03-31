@@ -1,3 +1,20 @@
+// ==UserScript==
+// @name         Bazoš Infinite Scroll (inzeráty a bany) 
+// @namespace    https://github.com/gloglas/Bazos.cz_infinite_scroll
+// @version      3.0.0
+// @description  Infinite loading, URL bans, favorites, import/export, and multi-search on bazos.cz/sk.
+// @match        *://*.bazos.cz/*
+// @match        *://*.bazos.sk/*
+// @exclude      *://*.bazos.cz/inzerat/*
+// @exclude      *://*.bazos.sk/inzerat/*
+// @grant        none
+// @run-at       document-idle
+
+// @downloadURL  https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/refs/heads/bans/script.js
+// @updateURL    https://raw.githubusercontent.com/gloglas/Bazos.cz_infinite_scroll/refs/heads/bans/script.js
+// @homepageURL  https://github.com/gloglas/Bazos.cz_infinite_scroll
+// @supportURL   https://github.com/gloglas/Bazos.cz_infinite_scroll/issues
+// ==/UserScript==
 
 (function () {
   "use strict";
